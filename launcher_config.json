@@ -1,0 +1,48 @@
+{
+  "project_name": "Helvel Role Play",
+  "logo_url": "",
+  "background_url": "",
+
+  "urls": {
+    "cdn": "https://6942f009858f5.xvest5.ru/brilliant-cdn/",
+    "donate": "https://pay.cloudtips.ru/p/0497620c",
+    "forum": "forum.helvelmobile.online",
+    "support": "t.me/fariteq",
+    "telegram": "t.me/helvel_mobile",
+    "vk": "vk.ru/helvel_mobile",
+    "discord": "t.me/fariteq",
+    "privacy": "helvelmobile.online/privacy"
+  },
+
+  "servers": [
+    {
+      "name": "Helvel Mobile #1",
+      "ip": "141.94.184.109",
+      "port": 1341,
+      "x2": false,
+      "online": 180,
+      "maxonline": 500
+    }
+  ],
+
+  "news": [
+    {
+      "title": "Добро пожаловать!",
+      "image": "https://sun9-78.userapi.com/s/v1/if2/TddwVQcqIBcXEqSpo_8jkE37rLxQWZlCjIR0c_hLlbFc7KgR1j9TnD6n5a0UJrHpP1SI-gx-QUgiDhUaxEUKV2vX.jpg?quality=96&as=32x15,48x22,72x33,108x50,160x74,240x111,360x166,480x222,540x249,640x295,720x332,1080x498,1280x591,1440x665,2340x1080&from=bu&cs=2340x0",
+      "text": "Добро пожаловать на HELVEL MOBILE!",
+      "date": "2026-06-05"
+    }
+  ],
+
+  "cache": {
+    "enabled": true,
+    "api_url": "https://6942f009858f5.xvest5.ru/brilliant-cdn/api.json",
+    "files_url": "https://6942f009858f5.xvest5.ru/brilliant-cdn/files"
+  },
+
+  "version": {
+    "code": 612622272,
+    "name": "1.0.0",
+    "apk_url": ""
+  }
+}
